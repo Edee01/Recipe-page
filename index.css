@@ -145,7 +145,7 @@ tr:last-of-type td {
     padding-top: 5em;
   }
   main {
-    width: 50%;
+    max-width:600px;
     padding: 1.8em;
   }
   .image {
